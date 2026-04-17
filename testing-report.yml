@@ -1,9 +1,5 @@
 ---
 - summary: |
-    Проверка отправки формы
-  status: pass
-  
-- summary: |
     Проверка корректности HTTP-статуса страницы
   status: pass
   
